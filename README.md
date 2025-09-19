@@ -45,4 +45,5 @@
 
 ---
 
-*“Code, art, and language are just different ways of seeking truth.”*  
+*“कुर्वन्नेवेह कर्माणि जिजीविषेत् शतं समाः।
+एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥”*  
