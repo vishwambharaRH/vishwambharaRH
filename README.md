@@ -37,6 +37,9 @@
 - Exploring nature through **photography & writing**  
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwambharaRH&layout=compact)
+
+---
 
 ## Let's Connect  
 - [LinkedIn](https://linkedin.com/in/vishwambhara-r-hebbalalu)  
