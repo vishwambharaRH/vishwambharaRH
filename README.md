@@ -40,8 +40,8 @@
 
 ## Let's Connect  
 - [LinkedIn](https://linkedin.com/in/vishwambhara-r-hebbalalu)  
-- [Instagram Photography Page](https://instagram.com/supernallyearthy)  
-- [Portfolio Website](https://vishwambhararh.github.io)  
+- [Instagram](https://instagram.com/supernallyearthy)  
+- [My Website](https://vishwambhararh.github.io)  
 
 ---
 
