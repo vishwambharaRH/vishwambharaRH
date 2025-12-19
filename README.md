@@ -4,7 +4,7 @@
 - Currently diving into **Machine Learning, AI, and Computer Vision**  
 - Exploring opportunities for **summer internships abroad** in AI/ML  
 - Lover of **nature photography, Carnatic music, and literature**  
-- Building projects across **AI, web, iOS/macOS apps, and research pipelines**  
+- Building projects across **AI, web, Android/iOS applications, and research pipelines**  
 
 ---
 
