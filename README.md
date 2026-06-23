@@ -44,9 +44,9 @@
 
 *Total: 47,423 lines across 16 languages*
 <!-- LOC-STATS:END -->
-You can check the work for the above in my repo [here](https://github.com/vishwambharaRH/github-loc-counter).
----
+#### You can check the work for the above in my repo [here](https://github.com/vishwambharaRH/github-loc-counter).
 
+---
 
 ## Let's Connect  
 - [LinkedIn](https://linkedin.com/in/vishwambhara-r-hebbalalu)  
