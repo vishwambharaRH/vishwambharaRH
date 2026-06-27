@@ -1,6 +1,6 @@
 # Hi, I'm Vishwambhara  
 
-- 3rd year Computer Science & Engineering student
+- Final year Computer Science & Engineering student
 - Currently diving into **Machine Learning, AI, and Computer Vision**  
 - Exploring opportunities for **summer internships abroad** in AI/ML  
 - Lover of **nature photography, Carnatic music, and literature**  
